@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "API Rest with Express (Node)",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev:1": "nodemon app.js"
   },

@@ -1,4 +1,5 @@
-[{
+[
+  {
     "id": "dcdd0fad-a94c-4810-8acc-5f108d3b18c3",
     "title": "The Shawshank Redemption",
     "year": 1994,
@@ -147,4 +148,5 @@
     "poster": "https://i.etsystatic.com/35681979/r/il/dfe3ba/3957859451/il_fullxfull.3957859451_h27r.jpg",
     "genre": ["Action", "Adventure", "Fantasy"],
     "rate": 7.8
-  }]
+  }
+]
